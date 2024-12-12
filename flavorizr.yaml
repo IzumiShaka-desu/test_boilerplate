@@ -1,0 +1,25 @@
+flavors:
+  dev:
+    android:
+      applicationId: com.DarkshanDev.test_boilerplate.dev
+      generateDummyAssets: false
+    app:
+      name: Test Boilerplate (Dev)
+    ios:
+      bundleId: com.DarkshanDev.test_boilerplate.dev
+  prod:
+    android:
+      applicationId: com.DarkshanDev.test_boilerplate.prod
+      generateDummyAssets: false
+    app:
+      name: Test Boilerplate (Prod)
+    ios:
+      bundleId: com.DarkshanDev.test_boilerplate.prod
+  stg:
+    android:
+      applicationId: com.DarkshanDev.test_boilerplate.stg
+      generateDummyAssets: false
+    app:
+      name: Test Boilerplate (Stg)
+    ios:
+      bundleId: com.DarkshanDev.test_boilerplate.stg
