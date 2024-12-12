@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_stg.dart
+ASSET_PREFIX=stg
+BUNDLE_NAME=Test Boilerplate (Stg)
+BUNDLE_DISPLAY_NAME=Test Boilerplate (Stg)
